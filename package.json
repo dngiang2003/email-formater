@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "name": "email-formater",
+  "version": "1.0.0",
+  "description": "email formater",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dngiang2003/email-formater.git"
+  },
+  "keywords": [
+    "email",
+    "formater"
+  ],
+  "author": "https://github.com/dngiang2003",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dngiang2003/email-formater/issues"
+  },
+  "homepage": "https://github.com/dngiang2003/email-formater#readme"
+}
