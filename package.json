@@ -5,23 +5,23 @@
   "scripts": {
     "start": "nodemon index.js"
   },
-  "name": "email-formater",
-  "version": "1.0.0",
-  "description": "email formater",
+  "name": "email-formatter",
+  "version": "1.0.2",
+  "description": "email formatter",
   "main": "index.js",
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dngiang2003/email-formater.git"
+    "url": "git+https://github.com/dngiang2003/email-formatter.git"
   },
   "keywords": [
     "email",
-    "formater"
+    "formatter"
   ],
   "author": "https://github.com/dngiang2003",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dngiang2003/email-formater/issues"
+    "url": "https://github.com/dngiang2003/email-formatter/issues"
   },
-  "homepage": "https://github.com/dngiang2003/email-formater#readme"
+  "homepage": "https://github.com/dngiang2003/email-formatter#readme"
 }
